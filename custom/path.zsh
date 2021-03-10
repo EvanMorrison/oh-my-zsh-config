@@ -1,3 +1,5 @@
+# this was the path configuration for TazWorks development
+
 export JAVA_HOME="/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home"
 
 export MAVEN_HOME="/usr/local/Cellar/maven/3.5.3/libexec"
